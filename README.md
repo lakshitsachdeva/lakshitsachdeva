@@ -1,9 +1,15 @@
-# Hi there, I'm Lakshit Sachdeva 👋  
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:38C2FF,100:6F00FF&height=200&section=header&text=Lakshit%20Sachdeva&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38C2FF&width=700&lines=AI+Engineer+%7C+Machine+Learning+Enthusiast+%7C+Full-Stack+Developer;Hackathon+Finalist+%7C+IBM+Certified+ML+Professional;Building+AI+%2B+Web+Solutions+that+Make+an+Impact)](https://git.io/typing-svg)
+
+---
+
+# 👋 Hi there, I'm Lakshit Sachdeva  
 
 🚀 **AI Engineer | Machine Learning Enthusiast | Hackathon Finalist | Full-Stack Developer**  
 
-Welcome to my GitHub! I'm passionate about building **AI-powered solutions**, solving **complex problems with Machine Learning**, and creating **scalable web applications**.  
-I love combining **data, algorithms, and creativity** to bring impactful projects to life.  
+Welcome to my GitHub! I’m passionate about **AI, data-driven solutions, and full-stack development**.  
+I love turning ideas into **scalable projects** that solve **real-world problems**.  
 
 ---
 
@@ -12,45 +18,60 @@ I love combining **data, algorithms, and creativity** to bring impactful project
 - 📊 Skilled in **Machine Learning, AI, and Full-Stack Development**  
 - 🏆 **Finalist** – Amazon ML Summer School Hackathon (**Cyber Cypher 2025**)  
 - 💼 **IBM Certified** Machine Learning Professional  
+- 📑 Co-author of a **research paper published on IEEE Xplore**  
 - 🤝 Always open to collaborating on **AI + Web projects**  
 
 ---
 
-## 🔥 Tech Stack  
+## ⚡ Tech Stack  
 
+<p align="center">
+  
 ### 💻 Languages  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
+<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,typescript,r,html,css,sql" />
 
-### 📊 AI / ML  
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+### 🤖 AI / ML  
+<img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,numpy,pandas,opencv" />
 
-### 🌐 Web & Tools  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)  
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)  
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)  
+### 🌐 Web Development  
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,supabase,streamlit,flask" />
+
+### 🗄️ Databases & Cloud  
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase,vercel,aws,gcp" />
+
+### ⚙️ Tools & DevOps  
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,figma" />
+
+</p>
 
 ---
 
 ## 📌 Featured Projects  
 
-- 🏦 **InvestTrack** – Investment Portfolio Management Platform (Full-Stack, Supabase + React)  
-- 🤖 **AI-Powered Insurance Claims Assistant** – Bajaj Finserv Hackathon project using **Google Vertex AI + RAG**  
-- 🧬 **Breast Cancer Detection** – ML project maximizing **Recall** using SVM, XGBoost, and Logistic Regression  
-- 🎨 **AI Slide Tutor** – Interactive learning assistant with **LLMs + Streamlit + Vision Models**  
+- 🧠 **Building Neural Networks from Scratch**  
+  Implemented a custom deep learning model with forward and backward propagation, gradient descent, and activation functions. Gained deep insights into neural network mechanics without high-level frameworks.  
+
+- 🗑️ **Smart Waste Management with ML & Servo Actuation**  
+  Designed an intelligent waste segregation system using **ResNet-50 CNN** for image classification (19k+ dataset, 95.45% accuracy). Integrated **OpenCV + Streamlit** for real-time webcam predictions and automated **servo-driven bin actuation** via Arduino Uno.  
+
+- 🏠 **Home Assistant 'Jarvis' (Arduino + IoT)**  
+  Developed a voice-activated home automation system using Arduino. Controlled lights, fans, and appliances with **voice commands, relays, and sensors**, ensuring energy efficiency and intuitive user interaction.  
+
+- 💹 **Full-Stack Financial Portfolio Management System**  
+  Built a responsive portfolio tracking web app with **Supabase (auth + DB)**, **React frontend**, and **SQL APIs**. Implemented secure login, real-time investment analytics, and CRUD operations for user portfolios.  
+
+- 📊 **Statistical Analysis on World Governance Indicators**  
+  Conducted data analysis and forecasting on **WGI data** using **Python + R**. Applied **ARIMA models** to study long-term governance trends, producing heatmaps and time-series visualizations of corruption control and government effectiveness.  
 
 ---
 
 ## 🏆 Achievements & Certifications  
-- 🏅 **Finalist** – Amazon ML Summer School Hackathon 2025 (Cyber Cypher)  
+- 🏅 **Trainee** – Amazon ML Summer School
 - 🎖️ **IBM Professional Certification** – Machine Learning  
-- 🏆 Hackathon participant: **Bajaj Finserv Hackathon 2025**, **chAIid (Baby Care AI)** project  
-- 🥇 Built multiple ML & AI projects during specialization  
+- 📑 **Research Published on IEEE Xplore** – Solar cell optimization (ICECCT 2024)  
+- 🥇 **1st Prize** – National Paper Presentation (APOGEE, BITS Pilani)  
+- 🧪 Research Intern – **Solar Cell Optimization** using perovskites & SCAPS 1D  
+- 💡 Founder – **The Quill and Ink**, a non-profit with 50k+ social interactions  
 
 ---
 
@@ -58,6 +79,10 @@ I love combining **data, algorithms, and creativity** to bring impactful project
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lakshitsachdeva&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshitsachdeva&theme=tokyonight&hide_border=true" height="160"/>
+</p>  
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshitsachdeva&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>  
 
