@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:38C2FF,100:6F00FF&height=200&section=header&text=Lakshit%20Sachdeva&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38C2FF&width=700&lines=AI+Engineer+%7C+Machine+Learning+Enthusiast+%7C+Full-Stack+Developer;Hackathon+Finalist+%7C+IBM+Certified+ML+Professional;Building+AI+%2B+Web+Solutions+that+Make+an+Impact)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38C2FF&width=700&lines=AI+Engineer+%7C+Machine+Learning+Enthusiast+%7C+Builder;Amazon+Trainee+%7C+IBM+Certified+ML+Professional;Building+AI+%2B+Web+Solutions+that+Make+an+Impact)](https://git.io/typing-svg)
 
 ---
 
